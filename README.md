@@ -27,7 +27,7 @@ I enjoy transforming raw data into actionable insights and interactive dashboard
 
 # 🚀 Featured Projects:<br>
 - 📊 IPL Data Analysis Dashboard (Python + Power BI)
-- 🛒 E-Commerce Customer Behaviour Analysis
+- 🛒 Data Analytics Projects
 - 📦 Inventory Management System (HTML, CSS, PHP, MySQL)
 - 🔍 ICP Prospecting Project
 
