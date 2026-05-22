@@ -1,21 +1,21 @@
-# 💫 About Me:
+# 💫 About Me:<br>
 
-🔭 I’m currently working on:
+**🔭 I’m currently working on:**<br>
 Building Data Analytics projects using Python, SQL, Power BI, and Excel to solve real-world business problems through data-driven insights and interactive dashboards.
 
-👯 I’m looking to collaborate on:
+**👯 I’m looking to collaborate on:**<br>
 Data Analytics, Machine Learning, and Open Source projects focused on business intelligence, dashboard development, and predictive analytics.
 
-🤝 I’m looking for help with:
+**🤝 I’m looking for help with:**<br>
 Enhancing my expertise in Data Science, Machine Learning, and advanced analytics through real-world projects, mentorship, and industry best practices.
 
-🌱 I’m currently learning:
+**🌱 I’m currently learning:**<br>
 Advanced Data Analytics, Machine Learning, SQL optimization, and Power BI to strengthen my analytical thinking and problem-solving skills.
 
-💬 Ask me about:
+**💬 Ask me about:**<br>
 Python, Pandas, SQL, Data Visualization, Power BI Dashboards, and Exploratory Data Analysis (EDA).
 
-⚡ Fun fact:
+**⚡ Fun fact:**<br>
 I enjoy transforming raw data into actionable insights and interactive dashboards that support smarter decision-making.
 
 ## 🌐 Socials:
